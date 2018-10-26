@@ -2,8 +2,8 @@
   position: relative;
 }
 header{
-  background: #ccc;
-  padding: 20px;
+  background-image: url(https://ws4.sinaimg.cn/large/9150e4e5ly1fuuv86b0wqg2050050juk.gif);
+  padding: 35px;
 }
 confmenu
 {
@@ -201,6 +201,7 @@ background-color: white;
 width: 195px;
 }
 body {
+	background-image: url(http://www.xxjxsj.cn/article/UploadPic/2010-6/2010621074271613.jpg);
   margin-bottom: 120px;
 }
 
