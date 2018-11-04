@@ -57,7 +57,7 @@ ul#css3menu1 ul{
 	visibility:hidden;
 	position:absolute;
 	left:100%;
-	top:;
+	top: 0;
 	opacity:0;
 	-moz-transition:all 0.5s;
 	-webkit-transition:opacity 0.5s;
