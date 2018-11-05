@@ -2,8 +2,7 @@
   position: relative;
 }
 header{
-  background-image: url(https://ws4.sinaimg.cn/large/9150e4e5ly1fuuv86b0wqg2050050juk.gif);
-  padding: 35px;
+  background-image: url();
   color:#ff1100;
 }
 confmenu
@@ -203,6 +202,6 @@ background-color: white;
 width: 195px;
 }
 body {
-	background-image: url(https://pa1.narvii.com/6821/47b3d054ccd4c6350114258f50f390f76bb47988_hq.gif);
+	background-image: url();
   margin-bottom: 120px;
 }
